@@ -12,7 +12,7 @@
 </div>
 <div style="display: inline_block"><br>
 <!--   <img align="right" alt="Max-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/1015474467624996957/1028405901520019527/AvatarMaker.png"> -->
-  <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

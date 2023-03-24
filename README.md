@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoOmartinss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxsuelo53&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsuelo53&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Max-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/1015474467624996957/1028405901520019527/AvatarMaker.png">

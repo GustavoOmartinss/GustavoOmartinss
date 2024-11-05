@@ -2,7 +2,7 @@
 ## Eu sou o José Gustavo!
 
 - 👋 Olá, meu nome é José Gustavo Martins e tenho 21 anos!
-- 📚 Cursando SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 06 período.
+- 📚 Formado em SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
 - 🖥️ Amante da tecnologia!
 
 <div align="center">

@@ -1,7 +1,7 @@
 # Olá! Seja bem vindo ao meu perfil.
 ## Eu sou o José Gustavo!
 
-- 👋 Olá, meu nome é José Gustavo Martins e tenho 23 anos!
+- 👋 Olá, meu nome é José Gustavo Martins e tenho 24 anos!
 - 📚 Formado em SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
 - 🖥️ Amante da tecnologia!
 

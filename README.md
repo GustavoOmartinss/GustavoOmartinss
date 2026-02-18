@@ -24,13 +24,7 @@ Sempre buscando evolução contínua e novos desafios 🚀
 </div>
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="130em" src="https://github-readme-stats-1k34-gustavo-martins-projects-f3ea674d.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-  
-  <img height="130em" src="https://github-readme-stats-1k34-gustavo-martins-projects-f3ea674d.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
+<div align="center"> <!-- Stats de commits e contribuições (funciona no README) --> <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=tokyonight&hide_border=true"/> <!-- Linguagens mais usadas (funciona melhor se repositórios forem públicos) --> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
 ---
 

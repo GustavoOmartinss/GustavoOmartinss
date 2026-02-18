@@ -19,11 +19,10 @@ Sempre buscando evolução contínua e novos desafios 🚀
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/GustavoOmartinss">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
+
 
 ---
 

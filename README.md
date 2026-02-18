@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Olá! Me chamo José Gustavo Martins, tenho <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Idade&query=idade&url=https://api.jsonbin.io/v3/b/65f0fakeplaceholder" /> anos e sou desenvolvedor apaixonado por tecnologia, segurança e construção de soluções que resolvem problemas reais.
+Olá! Me chamo José Gustavo Martins, tenho 24 anos e sou desenvolvedor apaixonado por tecnologia, segurança e construção de soluções que resolvem problemas reais.
 
 Sempre buscando evolução contínua e novos desafios 🚀
 

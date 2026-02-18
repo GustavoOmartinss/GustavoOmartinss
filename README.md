@@ -47,7 +47,7 @@ Sempre buscando evolução contínua e novos desafios 🚀
   <a href="mailto:josegustavomartins0111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/gustavo4533/">
+  <a href="https://www.instagram.com/gustavo_omartinss/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
   <a href="https://wa.me/5534998083429/">

@@ -56,4 +56,5 @@ Sempre buscando evolução contínua e novos desafios 🚀
 
 ---
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
+

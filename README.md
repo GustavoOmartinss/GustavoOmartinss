@@ -56,5 +56,7 @@ Sempre buscando evolução contínua e novos desafios 🚀
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="Snake animation" src="https://github.com/GustavoOmartinss/GustavoOmartinss/raw/output/github-contribution-grid-snake.svg">
+</div>
 

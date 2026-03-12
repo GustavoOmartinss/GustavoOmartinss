@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Olá! Me chamo José Gustavo Martins, tenho 24 anos e sou desenvolvedor apaixonado por tecnologia, segurança e construção de soluções que resolvem problemas reais.
+Olá! Me chamo José Gustavo Martins, tenho 24 anos e sou desenvolvedor apaixonado por tecnologia, segurança e construção de soluções.
 
 Sempre buscando evolução contínua e novos desafios 🚀
 

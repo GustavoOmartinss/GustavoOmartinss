@@ -16,13 +16,6 @@ Sempre buscando evolução contínua e novos desafios 🚀
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoOmartinss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoOmartinss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
 ---
 
 ## 🚀 Tecnologias

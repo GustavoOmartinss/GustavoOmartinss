@@ -16,8 +16,6 @@ Sempre buscando evolução contínua e novos desafios 🚀
 
 ---
 
----
-
 ## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
